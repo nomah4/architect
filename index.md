@@ -27,7 +27,7 @@ CRM: amoCRM
 ## Навыки
 
 - Программирование: Bash, Python, Kotlin
-- 
+- Системы контроля версий и CI/DI: Github, gitlab
 
 
 [back](./)
