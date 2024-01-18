@@ -13,3 +13,5 @@ layout: default
 - [Github.com](https://github.com/nomah4)
 
 - [Telegram](https://t.me/mikhailgorbachev)
+
+- [LinkedIn](https://www.linkedin.com/in/mikhail-gorbachev-44a5534a/)
