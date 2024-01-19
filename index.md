@@ -30,11 +30,11 @@ CRM: amoCRM
 
 ## Навыки
 
-- Программирование: Bash, Python, Kotlin
+- Программирование и скриптинг: Bash, Python, Kotlin
 
-- Системы контроля версий и CI/DI: Github, gitlab
+- Системы контроля версий и CI/DI: GitHub, GitLab
 
-- Веб-серверы: Apach, Nginx
+- Веб-серверы: Apache, Nginx
 
 - Контейнеризация: LXC/LXD, Docker
 
