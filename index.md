@@ -6,10 +6,12 @@ layout: default
 # Главная
 ![Моё фото](./12420316-2.jpg)
 
-Меня зовут Горбачёв Михаил. Я занимаюсь созданием и поддержкой IT:
+Меня зовут Горбачёв Михаил. Я занимаюсь созданием и поддержкой IT решений:
 
 - консультирую по созданию и развитию IT-инфраструктуры  
-- решаю и подсказываю как решать возникшие ситуации
+
+- решаю и предлагаю, как решать возникшие ситуации
+
 - объясняю простым языком сложные вещи
 
 ## Специализируюсь
@@ -29,7 +31,26 @@ CRM: amoCRM
 ## Навыки
 
 - Программирование: Bash, Python, Kotlin
+
 - Системы контроля версий и CI/DI: Github, gitlab
+
+- Веб-серверы: Apach, Nginx
+
+- Контейнеризация: LXC/LXD, Docker
+
+- Базы данные: MySQL, MariaDB, PostgreSQL
+
+- DNS: Bind, Unbond, DKIM/SPF/PTR/DMARC/MX
+
+- Маршрутизация: FRR. Протоколы OSPF, BGP
+
+- Оборудование: Mikrotik, Cisco, Huawei, Juiper, Checkpoint, D-link, TP-Link, Ubiquity
+
+- VPN: L2tp, WireGuard, IPsec
+
+- ОС: Windows Server, Linux(Debain, Ubuntu, Alpine)
+
+- Мониторинг: Zabbix, Grafana 
 
 
 [back](./)
