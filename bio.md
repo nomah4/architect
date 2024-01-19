@@ -23,6 +23,10 @@ layout: default
 
 - Получение лицензий, разрешений и согласований с ФСБ, РКН, МинЦифры.
 
+- Внедрение и поддержка базы знаний на платформе Wiki
+
+- Автоматизация работ ботами Telegram
+
 - [Сделка M&A](https://www.cableman.ru/content/alma-tv-priobrel-neskolko-provaiderov-v-moskve-i-podmoskove)
 
 - [Выиграны суды с Россетями по стоимости и условиям размещения на опорах](https://www.rbc.ru/technology_and_media/16/01/2024/65a68b109a794742c9c8fef5?utm_source=application&utm_source=application)
