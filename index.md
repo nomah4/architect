@@ -25,7 +25,7 @@ layout: default
 
 Поиск ошибок и проблем в IP сетях.
 
-Класическая и IP-телефония: Siemens, Panasonic, Avaya, Asterisk
+Класcическая и IP-телефония: Siemens, Panasonic, Avaya, Asterisk
 
 CRM: amoCRM
  
